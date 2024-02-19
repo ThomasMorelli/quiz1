@@ -1,1 +1,5 @@
-stud_id,firstname,lastname,major,classification,gpa
+stud_id,firstname,lastname,major,classification,gpa123456789,homer,wells,mis,fr,3.0
+124567890,bob,norbert,fin,jr,2.7
+345678901,wally,kendall,mis,sr,2.8
+789012345,roberto,morales,fin,jr,2.5
+890123456,luke,brazzi,mis,sr,2.2
